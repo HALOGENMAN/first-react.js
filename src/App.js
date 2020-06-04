@@ -4,7 +4,7 @@ import HomePage from "./pages/homepage/homePage.components"
 import ShopPage from "./pages/shop/shop.component"
 import Header from "./components/header/header.component"
 import SignInAndSignUpPage from "./pages/signIn-and-signUp-page/signIn-and-signUp-page.component"
-import { Route ,Switch, Router } from "react-router-dom"
+import { Route ,Switch} from "react-router-dom"
 
 
 class App extends Component  {
